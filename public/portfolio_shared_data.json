@@ -1,0 +1,38 @@
+{
+    "basic_info": {
+      "name": "Marina Sánchez Gómez",
+      "titles": [ "EN>ES Translator", "Linguist", "Proofreader"],
+      "social": [
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/marina-sanchez-gomez-traductora/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Trados",
+          "class": "",
+          "level": "80"
+        },
+        {
+          "name": "Memsource",
+          "class": "",
+          "level": "90"
+        },
+        {
+          "name": "Wordfast",
+          "class": "",
+          "level": "70"
+        },
+        {
+          "name": "Subtitle Edit",
+          "class": "",
+          "level": "75"
+        }
+      ]
+    }
+  }
