@@ -1,0 +1,77 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Marina and I'm a translator :) Since I was a child, I've loved languages, specially English. That's why I did English Studies and specialise in translation. Also, I'm a very curious person, I love to learn new things and I'm a fast learner. Moreover, when it comes to my job, I'm very perfectionist and always try to do my best. See u! 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Experience",
+        "skills": "Software Skills",
+        "experience": "Education"
+      }
+    },
+    "projects": [
+      {
+        "title": "TED TRANSLATORS",
+        "startDate": "2021",
+        "description": "Since June 2021, I belong to the volunteering group of TED Translators. My job mainly consists in producing the Spanish translation for TED Talk’s subtitles.",
+        "images": [
+          "images/portfolio/TED/TED1.png",
+          "images/portfolio/TED/TED2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "CLINA",
+        "startDate": "2021",
+        "description": "From January to July 2021, I made an internship as translator for CLINA, the USAL translation journal. During these six months, I’ve worked as a translator and as proofreader. Then, my job consisted in translating into Spanish academic articles related to translation studies, as well as in proofreading other different translations.",
+        "images": [
+          "images/portfolio/clina/clina.png"
+        ],
+        "url": "https://revistas.usal.es/index.php/clina/issue/archive",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Salamanca",
+        "title": "Translation and Intercultural Mediation",
+        "years": "2020 - 2021",
+        "mainTech": [
+          "Master´s Degree"
+        ],
+        "technologies": [
+          "Legal",
+          "Economic",
+          "Scientific",
+          "Literary",
+          "Audiovisual",
+          "Proofreading",
+          "Localisation"
+        ]
+      },
+      {
+        "company": "University of Murcia",
+        "title": "English Studies",
+        "years": "2016 - 2020",
+        "mainTech": [
+          "Bachelor´s Degree"
+        ],
+        "technologies": [
+          "Applied Linguistics",
+          "Literature",
+          "Translation"
+        ]
+      }
+    ]
+  }

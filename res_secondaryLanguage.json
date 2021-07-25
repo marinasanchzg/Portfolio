@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "description_header": "¡Hola!",
+    "description": "👋 Me llamo Marina y soy traductora :) Desde pequeña me han gustado los idiomas, sobre todo el inglés. Por eso, decidí hacer el grado en Estudios Ingleses y especializarme en traducción. También soy una persona muy curiosa, me encanta aprender cosas nuevas y aprendo rápido. Además, soy muy perfeccionista en mi trabajo y siempre intento dar lo mejor de mí. ¡Hasta pronto! 💜",
+    "section_name": {
+      "about": "Sobre mí",
+      "projects": "Experiencia",
+      "skills": "Aptitudes",
+      "experience": "Formación"
+    }
+  },
+  "projects": [
+    {
+      "title": "TED TRANSLATORS",
+      "startDate": "2021",
+      "description": "Desde junio de 2021, formo parte del grupo de traductores voluntarios para TED. Mis tareas consisten en traducir al español los subtítulos de las charlas que esta compañía produce.",
+      "images": [
+        "images/portfolio/TED/TED1.png",
+        "images/portfolio/TED/TED2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "CLINA",
+      "startDate": "2021",
+      "description": "Desde enero a julio de 2021, he realizado prácticas de traducción para CLINA, la revista de traducción de la USAL. Durante esos seis meses, he trabajado como traductora y como correctora. Así, mi trabajo ha consistido en traducir al español artículos académicos relacionados con los estudios de traducción, así como en la revisión de otras traducciones.",
+      "images": [
+        "images/portfolio/clina/clina.png"
+      ],
+      "url": "https://revistas.usal.es/index.php/clina/issue/archive",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Universidad de Salamanca",
+      "title": "Traducción y mediación intercultural",
+      "years": "2020 - 2021",
+      "mainTech": [
+        "Estudios de máster"
+      ],
+      "technologies": [
+        "Jurídica",
+        "Economica",
+        "Científico-técnica",
+        "Editorial",
+        "Audiovisual",
+        "Corrección",
+        "Localización"
+      ]
+    },
+    {
+      "company": "Universidad de Murcia",
+      "title": "Estudios Ingleses",
+      "years": "2016 - 2020",
+      "mainTech": [
+        "Estudios de grado"
+      ],
+      "technologies": [
+        "Lingüística aplicada",
+        "Literatura",
+        "Traducción"
+      ]
+    }
+  ]
+}
