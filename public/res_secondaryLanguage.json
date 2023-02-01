@@ -5,13 +5,43 @@
     "section_name": {
       "about": "Sobre mí",
       "projects": "Experiencia",
-      "skills": "Aptitudes",
+      "skills": "Destrezas TAO",
       "experience": "Formación"
     }
   },
   "projects": [
     {
-      "title": "TED TRANSLATORS",
+      "title": "TRADUCTORA AUTÓNOMA",
+      "startDate": "2021",
+      "description": "Desde agosto de 2021, trabajo como traductora autónoma llevando a cabo proyectos de traducción y revisión de carácter tano general como específico para múltiples agencias y clientes.",
+      "images": [
+        "images/portfolio/Freelance/freelance.jpg"
+      ],
+      "url":"",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "TRADUCTORA EDITORIAL",
+      "startDate": "2021",
+      "description": "Desde enero hasta junio de 2021, realicé las prácticas de traducción y revisión de artículos académicos para la revista CLINA de la Universidad de Salamanca.",
+      "images": [
+        "images/portfolio/clina/clina.png"
+      ],
+      "url": "https://revistas.usal.es/index.php/clina/issue/archive",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "title": "VOLUNTARIADO DE TRADUCCIÓN Y SUBTITULACIÓN",
       "startDate": "2021",
       "description": "Desde junio de 2021, formo parte del grupo de traductores voluntarios para TED. Mis tareas consisten en traducir al español los subtítulos de las charlas que esta compañía produce.",
       "images": [
@@ -25,27 +55,12 @@
           "name": ""
         }
       ]
-    },
-    {
-      "title": "CLINA",
-      "startDate": "2021",
-      "description": "Desde enero a julio de 2021, he realizado prácticas de traducción para CLINA, la revista de traducción de la USAL. Durante esos seis meses, he trabajado como traductora y como correctora. Así, mi trabajo ha consistido en traducir al español artículos académicos relacionados con los estudios de traducción, así como en la revisión de otras traducciones.",
-      "images": [
-        "images/portfolio/clina/clina.png"
-      ],
-      "url": "https://revistas.usal.es/index.php/clina/issue/archive",
-      "technologies": [
-        {
-          "class": "",
-          "name": ""
-        }
-      ]
     }
   ],
   "experience": [
     {
       "company": "Universidad de Salamanca",
-      "title": "Traducción y mediación intercultural",
+      "title": "Traducción y Mediación Intercultural",
       "years": "2020 - 2021",
       "mainTech": [
         "Estudios de máster"

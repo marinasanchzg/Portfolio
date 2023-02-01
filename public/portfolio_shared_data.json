@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Marina Sánchez Gómez",
-      "titles": [ "EN>ES Translator", "Linguist", "Proofreader"],
+      "titles": [ "EN>ES Translator", "Linguist", "Proofreader", "Post-Editer", "LQA", "Localizer", "Subtitler"],
       "social": [
         {
           "name": "LinkedIn",
@@ -14,9 +14,9 @@
     "skills": {
       "icons": [
         {
-          "name": "Trados",
+          "name": "Trados (2021)",
           "class": "",
-          "level": "80"
+          "level": "95"
         },
         {
           "name": "Memsource",
@@ -24,14 +24,19 @@
           "level": "90"
         },
         {
-          "name": "Wordfast",
+          "name": "XTM",
           "class": "",
-          "level": "70"
+          "level": "100"
         },
         {
-          "name": "Subtitle Edit",
+          "name": "MemoQ",
           "class": "",
-          "level": "75"
+          "level": "80"
+        },
+        {
+          "name": "Wordfast Anywhere",
+          "class": "",
+          "level": "80"
         }
       ]
     }
